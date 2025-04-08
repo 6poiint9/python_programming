@@ -1,0 +1,13 @@
+Jahr	Maisproduktion		
+1960	220		
+1970	300		
+1980	420		
+1990	520		
+2000	590		
+2001	614		
+2002	602		
+2003	640		
+2004	705		
+			
+Weltproduktion von Körnermais in Millionen Tonnen.			
+Quelle: Deutsches Maiskomitee; Stand: Oktober 2005.			
