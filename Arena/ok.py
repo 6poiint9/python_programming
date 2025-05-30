@@ -1,5 +1,17 @@
+import math  
+
 ok = 69; 
 
+sus = pow(ok, 2)
+
+print(sus)
+
+def lul(): 
+   global ok 
+   ok = ok + 2
+   print(ok)
+
+lul()
 print(type(ok))
 
 for i in range(22, 0, 2): 

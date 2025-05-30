@@ -1,0 +1,29 @@
+
+ course registration system
+
+- Students! can register for courses!
+
+-> look up which studen which course 
+
+-> prevent duplicate registration using set 
+
+-> store data in dict 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
